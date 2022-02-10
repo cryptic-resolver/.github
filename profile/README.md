@@ -1,22 +1,32 @@
 # Cryptic Resolver
 
+[![word-count](https://img.shields.io/badge/Keywords%20Inlcuded-541-brightgreen)](#default-dictionaries)
+
+This command line tool `cr` is used to **record and explain cryptic commands, acronyms and so forth** in daily life.
+The effort is to study etymology and know of naming conventions.
+
+Not only can it be used in the computer filed, but also you can use this to manage your own knowledge base easily.
+
+- Currently we have **541** keywords explained in our default dictionaries.
+
+![screenshot](./screenshot.png)
+
+
 <div align="center">
 
 **Cryptic Resolver in Ruby**
 
-[![word-count](https://img.shields.io/badge/Keywords%20Inlcuded-541-brightgreen)](#default-dictionaries)
 [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver) 
 
 
 **Cryptic Resolver in D**
 
-[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D)
+[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)]([cr_D])
 
 
 **Cryptic Resolver in Go**
 
-[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go)
-
+[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)]([cr_Go])
 
 
 </div>
@@ -58,3 +68,7 @@ For macOS user
 ```bash
 # only Go version
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/i.sh)"
+
+
+[cr_Go]: https://github.com/cryptic-resolver/cr_Go
+[cr_D]: https://github.com/cryptic-resolver/cr_D
