@@ -14,9 +14,9 @@ Not only can it be used in the computer filed, but also you can use this to mana
 
 <div align="center">
 
-| **Cryptic Resolver in Ruby** | **Cryptic Resolver in D**  | **Cryptic Resolver in Go** |
+| **cr in Ruby** | **cr in D**  | **cr in Go** |
 |:------------:|:---------:|:-----------:|
-| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)](https://github.com/cryptic-resolver/cr_D) | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)](https://github.com/cryptic-resolver/cr_Go) |
+| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)][cr_D] | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)][cr_Go] |
 
 </div>
 
@@ -32,7 +32,7 @@ gem install cryptic-resolver
 
 <br>
 
-We provide pre-built binaries for `cr` as well via [cr_D](https://github.com/cryptic-resolver/cr_D) and [cr_Go](https://github.com/cryptic-resolver/cr_Go)
+We provide pre-built binaries for `cr` as well via [cr_D] and [cr_Go]
 
 For Windows user
 ```powershell
@@ -58,7 +58,7 @@ For macOS user
 ```bash
 # only Go version
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/i.sh)"
-
+```
 
 [cr_Go]: https://github.com/cryptic-resolver/cr_Go
 [cr_D]: https://github.com/cryptic-resolver/cr_D
