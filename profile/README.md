@@ -14,24 +14,14 @@ Not only can it be used in the computer filed, but also you can use this to mana
 
 <div align="center">
 
-**Cryptic Resolver in Ruby**
-
-[![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver) 
-
-
-**Cryptic Resolver in D**
-
-[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)]([cr_D])
-
-
-**Cryptic Resolver in Go**
-
-[![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)]([cr_Go])
-
+| **Cryptic Resolver in Ruby** | **Cryptic Resolver in D**  | **Cryptic Resolver in Go** |
+|--------------|-----------|------------|
+| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)]([cr_D])    | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)]([cr_Go])       |
 
 </div>
 
 
+<br>
 
 ## Install
 
