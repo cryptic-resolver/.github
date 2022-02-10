@@ -34,7 +34,7 @@ gem install cryptic-resolver
 
 We provide pre-built binaries for `cr` as well via [cr_D] and [cr_Go]
 
-For Windows user
+**For Windows user**
 ```powershell
 # D version (smaller size)
 scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_D/main/install/cryptic-resolver.json"
@@ -44,7 +44,7 @@ scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_Go/main/ins
 ```
 
 
-For Linux user
+**For Linux user**
 ```bash
 # D version
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_D/main/install/i.sh)"
@@ -54,7 +54,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/m
 ```
 
 
-For macOS user
+**For macOS user**
 ```bash
 # only Go version
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/i.sh)"
