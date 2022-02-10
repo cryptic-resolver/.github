@@ -16,7 +16,7 @@ Not only can it be used in the computer filed, but also you can use this to mana
 
 | **Cryptic Resolver in Ruby** | **Cryptic Resolver in D**  | **Cryptic Resolver in Go** |
 |:------------:|:---------:|:-----------:|
-| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)]([cr_D]) | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)]([cr_Go])   |
+| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)][cr_D] | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_Go.svg)][cr_Go] |
 
 </div>
 
