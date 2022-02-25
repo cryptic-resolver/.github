@@ -22,7 +22,7 @@ gem install cryptic-resolver
 
 <br>
 
-We provide pre-built binaries for `cr` as well via [cr_D] and [cr_Go]
+Pre-built binaries for `cr` via [cr_D]
 
 **For Windows user**
 ```powershell
