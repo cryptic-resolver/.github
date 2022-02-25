@@ -6,7 +6,7 @@
 
 | **cr in Ruby** | **cr in D**  | **cr in Go** |
 |:------------:|:---------:|:-----------:|
-| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)][cr_D] | [Not maintain anymore|
+| [![Gem Version](https://badge.fury.io/rb/cryptic-resolver.svg)](https://rubygems.org/gems/cryptic-resolver)  | [![GitHub version](https://badge.fury.io/gh/cryptic-resolver%2Fcr_D.svg)][cr_D] |Not maintain anymore|
 
 </div>
 
