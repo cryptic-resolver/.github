@@ -15,7 +15,7 @@
 
 Ruby versiond `cr` is the reference implementation, always up-to-date.
 ```bash
-gem install cryptic-resolver
+gem install cr.rb
 ```
 
 
