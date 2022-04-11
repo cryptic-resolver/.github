@@ -1,13 +1,10 @@
 # Cryptic Resolver
 
-![screenshot](./screenshot.png)
-
 <div align="center">
 
 [![Gem Version](https://badge.fury.io/rb/cr.rb.svg)](https://rubygems.org/gems/cr.rb) 
 
 </div>
-
 
 <br>
 
@@ -17,7 +14,3 @@ Ruby versiond `cr` is the reference implementation, always up-to-date.
 ```bash
 gem install cr.rb
 ```
-
-
-[cr_Go]: https://github.com/cryptic-resolver/cr_Go
-[cr_D]: https://github.com/cryptic-resolver/cr_D
