@@ -34,9 +34,9 @@ cr -a ccmywish/signal_dict
 
 <br>
 
-### Localization & Translation
+### Field
 
-- [cryptic-resolver/common_trans_zh](https://github.com/cryptic-resolver/common_trans_zh) common translations in Chinese 常规词简体中文解释
+- [cryptic_electronics]
 
 <br>
 
@@ -46,13 +46,14 @@ cr -a ccmywish/signal_dict
 
 <br>
 
-### Field
+### Localization & Translation
 
-- To be added
+- [cryptic-resolver/common_trans_zh](https://github.com/cryptic-resolver/common_trans_zh) common translations in Chinese 常规词简体中文解释
 
 <br>
 
 [cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
+[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
 [cryptic_common]: https://github.com/cryptic-resolver/cryptic_common
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
