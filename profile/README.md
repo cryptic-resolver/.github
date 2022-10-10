@@ -29,14 +29,26 @@ gem install cr.rb
 You can use `cr -a user/repo` to add other non-default dictionaries, for example:
 
 ```bash
-cr -a cryptic-resolver/common_trans_zh
+cr -a ccmywish/signal_dict
 ```
+
+<br>
 
 ### Localization & Translation
 
 - [cryptic-resolver/common_trans_zh](https://github.com/cryptic-resolver/common_trans_zh) common translations in Chinese 常规词简体中文解释
 
+<br>
 
+### Specific 
+
+- [ccmywish/signal_dict](https://github.com/ccmywish/signal_dict) Signal in circuitry
+
+<br>
+
+### Field
+
+- To be added
 
 <br>
 
