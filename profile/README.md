@@ -37,6 +37,7 @@ cr -a ccmywish/signal_dict
 ### Field
 
 - [cryptic_electronics]
+- [cryptic_mechanical]
 
 <br>
 
@@ -54,6 +55,7 @@ cr -a ccmywish/signal_dict
 
 [cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
 [cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
+[cryptic_mechanical]: https://github.com/cryptic-resolver/cryptic_mechanical
 [cryptic_common]: https://github.com/cryptic-resolver/cryptic_common
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
