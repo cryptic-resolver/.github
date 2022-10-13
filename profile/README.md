@@ -51,7 +51,7 @@ cr -a ccmywish/signal_dict
 
 ### Localization & Translation
 
-- [cryptic-resolver/common_trans_zh](https://github.com/cryptic-resolver/common_trans_zh) common translations in Chinese 常规词简体中文解释
+- [ccmywish/common_trans_zh](https://github.com/ccmywish/common_trans_zh) common translations in Chinese 常规词简体中文解释
 
 <br>
 
@@ -60,7 +60,7 @@ cr -a ccmywish/signal_dict
 [cryptic_mechanical]: https://github.com/cryptic-resolver/cryptic_mechanical
 [cryptic_math]: https://github.com/cryptic-resolver/cryptic_math
 
-[cryptic_windows]: https://github.com/cryptic-resolver/windows
+[cryptic_windows]: https://github.com/cryptic-resolver/cryptic_windows
 
 [cryptic_common]: https://github.com/cryptic-resolver/cryptic_common
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
