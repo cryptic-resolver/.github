@@ -36,10 +36,10 @@ cr -a ccmywish/signal_dict
 ### Field
 
 - [![cryptic_economy](https://github.com/cryptic-resolver/cryptic_economy/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_economy/actions/workflows/test.yml) [cryptic_economy]
-- [cryptic_mechanical]
-- [cryptic_math]
-- [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
 - [![cryptic_medicine](https://github.com/cryptic-resolver/cryptic_medicine/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_medicine/actions/workflows/test.yml) [cryptic_medicine]
+- [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
+- [![cryptic_mechanical](https://github.com/cryptic-resolver/cryptic_mechanical/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_mechanical/actions/workflows/test.yml) [cryptic_mechanical]
+- [![cryptic_math](https://github.com/cryptic-resolver/cryptic_math/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_math/actions/workflows/test.yml) [cryptic_math]
 
 <br>
 
