@@ -16,11 +16,10 @@ gem install cr.rb
 
 ## Default dictionaries
 
-- [![cryptic_computer](https://github.com/cryptic-resolver/cryptic_computer/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_computer/actions/workflows/test.yml) [cryptic_computer]
 - [![cryptic_common](https://github.com/cryptic-resolver/cryptic_common/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_common/actions/workflows/test.yml) [cryptic_common]
-- [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
-- [![cryptic_economy](https://github.com/cryptic-resolver/cryptic_economy/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_economy/actions/workflows/test.yml) [cryptic_economy]
-- [![cryptic_medicine](https://github.com/cryptic-resolver/cryptic_medicine/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_medicine/actions/workflows/test.yml) [cryptic_medicine]
+- [![cryptic_computer](https://github.com/cryptic-resolver/cryptic_computer/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_computer/actions/workflows/test.yml) [cryptic_computer]
+- [![cryptic_windows](https://github.com/cryptic-resolver/cryptic_windows/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_windows/actions/workflows/test.yml) [cryptic_windows]
+- [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
 
 <br>
 
@@ -36,15 +35,16 @@ cr -a ccmywish/signal_dict
 
 ### Field
 
-- [cryptic_electronics]
+- [![cryptic_economy](https://github.com/cryptic-resolver/cryptic_economy/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_economy/actions/workflows/test.yml) [cryptic_economy]
 - [cryptic_mechanical]
 - [cryptic_math]
+- [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
+- [![cryptic_medicine](https://github.com/cryptic-resolver/cryptic_medicine/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_medicine/actions/workflows/test.yml) [cryptic_medicine]
 
 <br>
 
 ### Specific 
 
-- [cryptic_windows]
 - [ccmywish/signal_dict](https://github.com/ccmywish/signal_dict) Signal in circuitry
 
 <br>
@@ -55,14 +55,13 @@ cr -a ccmywish/signal_dict
 
 <br>
 
-[cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
-[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
-[cryptic_mechanical]: https://github.com/cryptic-resolver/cryptic_mechanical
-[cryptic_math]: https://github.com/cryptic-resolver/cryptic_math
-
-[cryptic_windows]: https://github.com/cryptic-resolver/cryptic_windows
-
 [cryptic_common]: https://github.com/cryptic-resolver/cryptic_common
-[cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
+[cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
+[cryptic_windows]: https://github.com/cryptic-resolver/cryptic_windows
+[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
+
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
 [cryptic_medicine]: https://github.com/cryptic-resolver/cryptic_medicine
+[cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
+[cryptic_mechanical]: https://github.com/cryptic-resolver/cryptic_mechanical
+[cryptic_math]: https://github.com/cryptic-resolver/cryptic_math
