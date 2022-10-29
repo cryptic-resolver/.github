@@ -28,7 +28,7 @@ gem install cr.rb
 You can use `cr -a user/repo` to add other non-default dictionaries, for example:
 
 ```bash
-cr -a ccmywish/signal_dict
+cr -a ccmywish/signal.cr
 ```
 
 <br>
@@ -45,7 +45,7 @@ cr -a ccmywish/signal_dict
 
 ### Specific 
 
-- [ccmywish/signal_dict](https://github.com/ccmywish/signal_dict) Signal in circuitry
+- [ccmywish/signal.cr](https://github.com/ccmywish/signal.cr) Signal in circuitry
 
 <br>
 
