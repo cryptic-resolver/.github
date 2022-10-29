@@ -51,7 +51,7 @@ cr -a ccmywish/signal.cr
 
 ### Localization & Translation
 
-- [ccmywish/common_trans_zh](https://github.com/ccmywish/common_trans_zh) common translations in Chinese 常规词简体中文解释
+- [ccmywish/common_zh-Hans.cr](https://github.com/ccmywish/common_zh-Hans.cr) common translations in Chinese 常规词简体中文解释
 
 <br>
 
