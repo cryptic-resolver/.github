@@ -19,6 +19,7 @@ gem install cr.rb
 - [![cryptic_common](https://github.com/cryptic-resolver/cryptic_common/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_common/actions/workflows/test.yml) [cryptic_common]
 - [![cryptic_computer](https://github.com/cryptic-resolver/cryptic_computer/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_computer/actions/workflows/test.yml) [cryptic_computer]
 - [![cryptic_windows](https://github.com/cryptic-resolver/cryptic_windows/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_windows/actions/workflows/test.yml) [cryptic_windows]
+- [![cryptic_linux](https://github.com/cryptic-resolver/cryptic_linux/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_linux/actions/workflows/test.yml) [cryptic_linux]
 - [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
 
 <br>
@@ -58,6 +59,7 @@ cr -a ccmywish/signal.cr
 [cryptic_common]: https://github.com/cryptic-resolver/cryptic_common
 [cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
 [cryptic_windows]: https://github.com/cryptic-resolver/cryptic_windows
+[cryptic_linux]: https://github.com/cryptic-resolver/cryptic_windows
 [cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
 
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
