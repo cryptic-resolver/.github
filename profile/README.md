@@ -30,6 +30,8 @@ You can use `cr -a user/repo` to add other non-default dictionaries, for example
 
 ```bash
 cr -a ccmywish/signal.cr
+
+cr -a ccmywish/x86.cr
 ```
 
 <br>
@@ -47,6 +49,8 @@ cr -a ccmywish/signal.cr
 ### Specific 
 
 - [ccmywish/signal.cr](https://github.com/ccmywish/signal.cr) Signal in circuitry
+- [ccmywish/x86.cr](https://github.com/ccmywish/x86.cr) x86 instructions and mnemonics
+
 
 <br>
 
