@@ -48,9 +48,9 @@ cr -a ccmywish/x86.cr
 
 ### Specific 
 
-- [ccmywish/signal.cr](https://github.com/ccmywish/signal.cr) Signal in circuitry
-- [ccmywish/x86.cr](https://github.com/ccmywish/x86.cr) x86 instructions and mnemonics
-
+- [![cryptic_dos](https://github.com/cryptic-resolver/cryptic_dos/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_dos/actions/workflows/test.yml) [cryptic_dos]
+- [![cryptic_x86](https://github.com/cryptic-resolver/cryptic_x86/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_x86/actions/workflows/test.yml) [cryptic_x86]
+- [![cryptic_signal](https://github.com/cryptic-resolver/cryptic_signal/workflows/test-dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_signal/actions/workflows/test.yml) [cryptic_signal]
 
 <br>
 
@@ -71,3 +71,7 @@ cr -a ccmywish/x86.cr
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
 [cryptic_mechanical]: https://github.com/cryptic-resolver/cryptic_mechanical
 [cryptic_math]: https://github.com/cryptic-resolver/cryptic_math
+
+[cryptic_dos]: https://github.com/cryptic-resolver/cryptic_dos
+[cryptic_x86]: https://github.com/cryptic-resolver/cryptic_x86
+[cryptic_signal]: https://github.com/cryptic-resolver/cryptic_signal
