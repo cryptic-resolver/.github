@@ -29,9 +29,12 @@ gem install cr.rb
 You can use `cr -a user/repo` to add other non-default dictionaries, for example:
 
 ```bash
-cr -a ccmywish/signal.cr
+# Add official dicts, which start with 'cryptic_'
+cr -a x86
+cr -a dos
 
-cr -a ccmywish/x86.cr
+# Add a user dict
+cr -a ccmywish/common_zh-Hans.cr
 ```
 
 <br>
