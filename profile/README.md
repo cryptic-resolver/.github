@@ -4,6 +4,7 @@
 
 [![Test](https://github.com/cryptic-resolver/cr.rb/workflows/Test-Behavior/badge.svg)](https://github.com/cryptic-resolver/cr.rb/actions/workflows/test.yml)
 [![Gem Version](https://badge.fury.io/rb/cr.rb.svg)](https://rubygems.org/gems/cr.rb) 
+[![Gitter](https://badges.gitter.im/cryptic-resolver/community.svg)](https://gitter.im/cryptic-resolver/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 </div>
 
