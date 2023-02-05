@@ -21,7 +21,7 @@ gem install cr.rb
 - [![cryptic_computer](https://github.com/cryptic-resolver/cryptic_computer/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_computer/actions/workflows/test.yml) [cryptic_computer]
 - [![cryptic_windows](https://github.com/cryptic-resolver/cryptic_windows/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_windows/actions/workflows/test.yml) [cryptic_windows]
 - [![cryptic_linux](https://github.com/cryptic-resolver/cryptic_linux/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_linux/actions/workflows/test.yml) [cryptic_linux]
-- [![cryptic_technology](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_technology]
+- [![cryptic_technology](https://github.com/cryptic-resolver/cryptic_technology/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_technology/actions/workflows/test.yml) [cryptic_technology]
 
 <br>
 
@@ -32,9 +32,10 @@ You can use `cr -a user/repo` to add other non-default dictionaries, for example
 ```bash
 # Add official dicts, which start with 'cryptic_'
 cr -a x86
-cr -a dos
+cr -a economy
 
 # Add a user dict
+cr -a ccmywish/CRuby-Source-Code-Dictionary
 cr -a ccmywish/common_zh-Hans.cr
 ```
 
@@ -42,6 +43,7 @@ cr -a ccmywish/common_zh-Hans.cr
 
 ### Field
 
+- [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
 - [![cryptic_economy](https://github.com/cryptic-resolver/cryptic_economy/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_economy/actions/workflows/test.yml) [cryptic_economy]
 - [![cryptic_medicine](https://github.com/cryptic-resolver/cryptic_medicine/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_medicine/actions/workflows/test.yml) [cryptic_medicine]
 - [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
