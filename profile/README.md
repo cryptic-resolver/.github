@@ -21,7 +21,7 @@ gem install cr.rb
 - [![cryptic_computer](https://github.com/cryptic-resolver/cryptic_computer/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_computer/actions/workflows/test.yml) [cryptic_computer]
 - [![cryptic_windows](https://github.com/cryptic-resolver/cryptic_windows/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_windows/actions/workflows/test.yml) [cryptic_windows]
 - [![cryptic_linux](https://github.com/cryptic-resolver/cryptic_linux/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_linux/actions/workflows/test.yml) [cryptic_linux]
-- [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
+- [![cryptic_technology](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_technology]
 
 <br>
 
@@ -58,6 +58,12 @@ cr -a ccmywish/common_zh-Hans.cr
 
 <br>
 
+### Feature
+
+- [ccmywish/CRuby-Source-Code-Dictionary](https://github.com/ccmywish/CRuby-Source-Code-Dictionary)
+
+<br>
+
 ### Localization & Translation
 
 - [ccmywish/common_zh-Hans.cr](https://github.com/ccmywish/common_zh-Hans.cr) common translations in Chinese 常规词简体中文解释
@@ -68,8 +74,9 @@ cr -a ccmywish/common_zh-Hans.cr
 [cryptic_computer]: https://github.com/cryptic-resolver/cryptic_computer
 [cryptic_windows]: https://github.com/cryptic-resolver/cryptic_windows
 [cryptic_linux]: https://github.com/cryptic-resolver/cryptic_linux
-[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
+[cryptic_technology]: https://github.com/cryptic-resolver/cryptic_technology
 
+[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
 [cryptic_medicine]: https://github.com/cryptic-resolver/cryptic_medicine
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
