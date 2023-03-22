@@ -42,9 +42,9 @@ cr -a ccmywish/common_zh-Hans.cr
 
 ### Field
 
-- [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
 - [![cryptic_economy](https://github.com/cryptic-resolver/cryptic_economy/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_economy/actions/workflows/test.yml) [cryptic_economy]
 - [![cryptic_medicine](https://github.com/cryptic-resolver/cryptic_medicine/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_medicine/actions/workflows/test.yml) [cryptic_medicine]
+- [![cryptic_electronics](https://github.com/cryptic-resolver/cryptic_electronics/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_electronics/actions/workflows/test.yml) [cryptic_electronics]
 - [![cryptic_science](https://github.com/cryptic-resolver/cryptic_science/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_science/actions/workflows/test.yml) [cryptic_science]
 - [![cryptic_math](https://github.com/cryptic-resolver/cryptic_math/workflows/Test-Dict/badge.svg)](https://github.com/cryptic-resolver/cryptic_math/actions/workflows/test.yml) [cryptic_math]
 
@@ -75,9 +75,9 @@ cr -a ccmywish/common_zh-Hans.cr
 [cryptic_linux]: https://github.com/cryptic-resolver/cryptic_linux
 [cryptic_technology]: https://github.com/cryptic-resolver/cryptic_technology
 
-[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
 [cryptic_economy]: https://github.com/cryptic-resolver/cryptic_economy
 [cryptic_medicine]: https://github.com/cryptic-resolver/cryptic_medicine
+[cryptic_electronics]: https://github.com/cryptic-resolver/cryptic_electronics
 [cryptic_science]: https://github.com/cryptic-resolver/cryptic_science
 [cryptic_math]: https://github.com/cryptic-resolver/cryptic_math
 
